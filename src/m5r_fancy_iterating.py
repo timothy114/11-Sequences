@@ -14,7 +14,7 @@ is different from:
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and Timothy Li.
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
-
+ 
 # ----------------------------------------------------------------------
 # DONE: 2. READ the program below and RUN it.
 #
